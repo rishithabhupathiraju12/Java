@@ -20,6 +20,7 @@ public class Day6_nestedloops {
             System.out.println(result[i]);
         }
     }
+    
 }
 
 

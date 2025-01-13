@@ -5,7 +5,6 @@ public class Day5_loops{
                 System.out.println(i);
             }
         }
-
     }
 }
 
